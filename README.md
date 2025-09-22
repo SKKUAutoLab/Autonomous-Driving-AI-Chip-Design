@@ -1,6 +1,6 @@
 # Autonomous Driving AI Chip Design Baseline File Structure
 
-2025 Autonomous Driving AI Chip design contest for Sungkyunkwan University Students
+2025 Autonomous Driving AI Chip Design Contest for Sungkyunkwan University Students
 
 ---
 
@@ -13,6 +13,7 @@
 - [PWM RTL Code (Google Drive)](https://drive.google.com/file/d/1zA4lm_GMxx4Rb-orluPuT32Hf5BqDOJo/view?usp=drive_link)  
 - [Test dataset (Google Drive)](https://drive.google.com/file/d/1dNZBiT1rwPjCdPhqsQOfeQndNe5JSUiN/view?usp=drive_link)  
 - [YOLOv3-tiny Vitis-ai (Google Drive)](https://drive.google.com/file/d/16zhGDqBl_MWdsYOjycSokO4XoY-AF_yK/view?usp=drive_link)  
+- [Educational Material (Google Drive)](https://drive.google.com/file/d/1AzIVBAaPTiS8fYsKFQ7jMrLIPk1s4KEZ/view?usp=drive_link)  
 
 ---
 
@@ -21,9 +22,9 @@
 ### $\textcolor{red}{\mathbf{(NEW)}}$ Segmentation
 
 - **test_data**  
-  *Inference test img*
+  *Inference test images*
 - **dpu_yolact.ipynb**  
-  *Jupyter Notebook for real-time segmentation Inference (~20FPS)*
+  *Jupyter Notebook for real-time segmentation inference (~20FPS)*
 
 ### debugging
 - **SoC_Driving.ipynb**  
@@ -31,7 +32,7 @@
 - **data_collection.ipynb**  
   *Jupyter Notebook for data collection*
 - $\textcolor{red}{\mathbf{(NEW)}}$ **test_sonic.ipynb**  
-  *Jupyter Notebook for Ultrasonic sensor test (for reference only as it's a simple example)*
+  *Jupyter Notebook for Ultrasonic sensor test (for reference only, simple example)*
 
 ### dpu
 - **dpu.bit**  
